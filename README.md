@@ -23,10 +23,10 @@ Plate layouts and .fcs files can be made available upon request
 --------------------------------------------------------------------------------------------------------------
 Analysis in Flowjo used to generate the .csv files in each folder:
 
-Controls:
-GFP-/RFP+ = BP-HK = B9
-GFP-/RFP- = BP- = B10
-+GFP/RFP- = 897- = B11
+Controls (Control type = sample name = well identifier):
+- GFP-/RFP+ = BP-HK = B9
+- GFP-/RFP- = BP- = B10
+- +GFP/RFP- = 897- = B11
 
 The letter identifier of each control will change depending on the sample group. This is indicated within the '...run2' scripts
 
